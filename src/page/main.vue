@@ -9,10 +9,22 @@
         />
         <div class="absolute inset-0 via-transparent to-transparent opacity-50"></div>
         <div class="relative z-10 text-center text-white p-8  bg-opacity-40 rounded-xl  animate-fade-in-up-slow  border-opacity-30">
-          <p class="font-dancing text-4xl mb-4 animate-fade-in text-gold-300">Your invited to</p>
-          <h1 class="text-6xl md:text-8xl font-playfair font-extrabold tracking-tight leading-none mb-4 animate-scale-in-slow text-shadow-glow">
+          <p class="font-dancing text-4xl mb-4 animate-fade-in text-pink-600">Your invited to</p>
+          <!-- <h1 class="text-6xl md:text-8xl font-playfair font-extrabold tracking-tight leading-none mb-4 animate-scale-in-slow text-shadow-glow"> -->
+          <!-- <h1 class="text-6xl md:text-8xl font-playfair font-extrabold tracking-tight leading-none mb-4 animate-scale-in-slow text-shadow-glow">
             Angela's 18th Birthday
-          </h1>
+          </h1> -->
+
+          <!-- <h1 class="text-6xl md:text-8xl font-playfair font-extrabold tracking-tight leading-none mb-4 animate-scale-in-slow" style="color: pink; text-shadow: 0 0 10px pink, 0 0 20px pink;">
+    Angela's 18th Birthday
+</h1> -->
+
+<h1 class="text-6xl md:text-8xl font-playfair font-extrabold tracking-tight leading-none mb-4 animate-scale-in-slow pink-glow" style="color: pink; text-shadow: 0 0 5px pink, 0 0 10px pink;">
+    Angela's 18th Birthday
+</h1>
+
+
+
           <!-- <p class="text-xl md:text-2xl font-lora animate-fade-in" style="animation-delay: 0.8s;">Celebrating 18 Years of Grace & Dreams</p> -->
         </div>
       </div>
