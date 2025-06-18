@@ -250,7 +250,7 @@
               </div>
               <h3 class="text-2xl font-playfair font-semibold mb-4 text-gray-900">For the Ladies</h3>
               <p class="text-xl mb-3">
-                <strong class="text-pink-600">Attire:</strong> Elegant Cocktail / Formal Garden Attire / White Dress
+                <strong class="text-pink-600">Attire:</strong> Dress / Semi Formal Dress
               </p>
               <p class="text-lg text-gray-700 leading-relaxed">
                 Embrace the garden gala theme with elegant cocktail dresses, flowy gowns, or sophisticated jumpsuits. Shades of emerald green, blush pink, lavender, gold, or champagne would be enchanting.
@@ -268,7 +268,7 @@
               </div>
               <h3 class="text-2xl font-playfair font-semibold mb-4 text-gray-900">For the Gentlemen</h3>
               <p class="text-xl mb-3">
-                <strong class="text-purple-600">Attire:</strong> Smart Suit / Barong Tagalog / White Shirt
+                <strong class="text-purple-600">Attire:</strong> Polo Shirt
               </p>
               <p class="text-lg text-gray-700 leading-relaxed">
                 Opt for a smart suit, a traditional Barong Tagalog, or a blazer with dress trousers. Forest green, navy, or charcoal would complement the theme. Neckties are welcome.
