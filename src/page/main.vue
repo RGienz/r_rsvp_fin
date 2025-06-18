@@ -261,7 +261,7 @@
                 class="w-48 h-48 mx-auto rounded-full overflow-hidden shadow-lg border-4 border-purple-300 mb-6 transform hover:scale-105 transition duration-500 ease-in-out"
               >
                 <img
-                  src="/imageCollide/male1.png"
+                  src="/imageCollide/male2.png"
                   alt="Gentlemen Dress Code"
                   class="w-full h-full object-cover"
                 />
